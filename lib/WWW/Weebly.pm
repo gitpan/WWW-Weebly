@@ -12,7 +12,6 @@ use List::Util qw(first);
 
 use HTTP::Tiny;
 use URI::Escape qw(uri_escape);
-use WWW::Weebly::TieFileWeebly;
 
 =head1 NAME
 
@@ -24,7 +23,7 @@ Version 0.01
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 =head1 SYNOPSIS
 

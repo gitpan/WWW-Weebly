@@ -16,10 +16,10 @@ name: WWW-Weebly
 provides:
   WWW::Weebly:
     file: lib/WWW/Weebly.pm
-    version: 0.01
+    version: 0.02
 requires:
   HTTP::Tiny: 0
   URI::Escape: 0
 resources:
   license: http://www.perlfoundation.org/artistic_license_2_0
-version: 0.01
+version: 0.02
